@@ -26,3 +26,9 @@ Clean and maintainable codebase
 🛠️ Tech Stack:
 HTML5, CSS3, JavaScript
 Bootstrap / Tailwind CSS (optional depending on your stack)
+
+🎓 BITS Campus Website Design
+A modern, responsive web design concept for the BITS Pilani campus. This project captures the spirit of academic excellence and innovation at BITS, offering a clean interface, structured content, and intuitive navigation. Features include department overviews, admission details, campus life highlights, event updates, and contact access—crafted for both students and visitors.
+
+Built with a focus on performance, accessibility, and sleek aesthetics to reflect the prestige of BITS Pilani.
+
